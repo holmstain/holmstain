@@ -1,4 +1,5 @@
-## Hi there 👋
+## Holmstain <img width="480" height="362" alt="SkeletonShieldGIF" src="https://github.com/user-attachments/assets/e34a36c5-db72-4928-a5cb-c86afb2de047" />
+
 
 <!--
 **holmstain/holmstain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
