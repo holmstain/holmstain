@@ -1,17 +1,21 @@
-## Holmstain <img width="480" height="362" alt="SkeletonShieldGIF" src="https://github.com/user-attachments/assets/e34a36c5-db72-4928-a5cb-c86afb2de047" />
+# Hi there, I'm Enes aka holmstain 👋
 
+Junior DevOps Engineer & Software Developer. Passionate about automation, cloud infrastructure, and building scalable systems.
 
-<!--
-**holmstain/holmstain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
+* **Cloud & Infrastructure:** Docker, AndroidDocker, Kubernetes, AWS
+* **CI/CD & Git:** Git, GitHub Actions
+* **Languages & Scripting:** TypeScript, Node.js, Python, Bash
+* **Operating Systems:** Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
+
+### 📫 How to Reach Me
+
+* **Email:** holmstain@gmail.com
+* **Discord:"" https://discord.gg/JhSAUgXhsa & "holmstain"
