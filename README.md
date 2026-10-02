@@ -13,4 +13,4 @@ Junior DevOps Engineer & Software Developer. Passionate about automation, cloud 
 ### 📫 How to Reach Me
 
 * **Email:** holmstain@gmail.com
-* **Discord:"" https://discord.gg/JhSAUgXhsa & "holmstain"
+* **Discord:** https://discord.gg/JhSAUgXhsa & "holmstain"
