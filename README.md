@@ -12,7 +12,7 @@ Junior DevOps Engineer & Software Developer. Passionate about automation, cloud 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=holmstain&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 How to Reach Me
